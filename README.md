@@ -1,4 +1,6 @@
 # SmartSOS-AI-System
+![alt text](https://1.bp.blogspot.com/-hW0mNZKkg0Y/YPGHTUJtJuI/AAAAAAAAyJ8/p8ZJPsShbf4q1eOhcUqyI4C9QbBvFGn-QCLcBGAsYHQ/s577/Capture.JPG)
+
 Abstract
 
 SmartSOS is an emergency AI handling system that works on Arduino Nano and Android mobile phones. In an emergency, the user(s) can trigger an emergency message by simply waving their hand. The emergency message (SMS) that send to related contacts consists of the user's contact number and location coordinates.

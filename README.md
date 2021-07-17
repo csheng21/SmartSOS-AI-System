@@ -14,4 +14,4 @@ SmartSOS AI System
 
 With SmartSOS AI System, what to do during a Robbery? First, remain calm and simply raise up both hands. Then wave your hand left and right continues for more than 3sec, generally Wave Hand may likely draw the Robber's attention that doesn’t hurt you and you will follow the robber's direction. At the same time, SmartSOS AI system will be trigger immediately, the SOS alert message will send to the registered contacts with a track location map
 
-For More info, refer to: 
+For More info, refer to:  https://heng2ai.blogspot.com/2021/07/smartsos-app.html
